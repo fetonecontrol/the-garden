@@ -2,6 +2,10 @@
   font-size: small;
   text-shadow: aqua;
 }
+.h3 {
+  font-family: helvetica;
+  background-color: rgb(187, 233, 236);
+}
 .navbartext a {
   color: rgb(106, 216, 91);
 }
@@ -19,3 +23,4 @@
   -o-transform: rotate(90deg);
   transform: rotate(90deg);
 }
+
