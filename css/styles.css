@@ -3,6 +3,7 @@
   color: rgb(19, 32, 32);
 }
 .floatright {
+  width: 30%;
   float: right;
 }
 .floatleft {
