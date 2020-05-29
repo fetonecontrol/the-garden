@@ -1,6 +1,4 @@
-.sidebar {
-  width: 15%;
-  float: right;
-  font-size: xx-small;
-  background-color: rgb(222, 248, 244);
+.sidebar h2 {
+  font-size: small;
+  text-shadow: aqua;
 }
