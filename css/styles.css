@@ -2,6 +2,15 @@
   font-size: small;
   color: rgb(19, 32, 32);
 }
+.floatright {
+  float: right;
+}
+.floatleft {
+  float: left;
+}
+.highlight {
+  font-style: italic;
+}
 .box
   {
     margin: 6px;
