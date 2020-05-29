@@ -1,10 +1,16 @@
 .sidebar h2 {
   font-size: small;
-  text-shadow: aqua;
+  color: rgb(19, 32, 32);
 }
+.box
+  {
+    margin: 6px;
+    border: 3px lightseagreen;
+    padding: 4px;
+  }
 .h3 {
   font-family: helvetica;
-  background-color: rgb(187, 233, 236);
+  background: rgb(187, 233, 236);
 }
 .navbartext a {
   color: rgb(106, 216, 91);
