@@ -6,6 +6,10 @@
   padding: 10px;
 
 }
+.annoying {
+  font-style: italic;
+  font-weight: 900;
+}
 .floatright {
   width: 30%;
   background-color: lightseagreen;
