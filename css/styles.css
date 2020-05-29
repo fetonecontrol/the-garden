@@ -1,12 +1,15 @@
 .sidebar h2 {
   font-size: small;
   color: rgb(19, 32, 32);
-  margin: 6px;
-  border: 30px lightseagreen;
-  padding: 4px;
+  margin: 10px;
+  border: sandybrown;
+  padding: 10px;
+
 }
 .floatright {
   width: 30%;
+  background-color: lightseagreen;
+
   float: right;
 }
 .highlight {
@@ -19,4 +22,10 @@
 }
 .navbartext a {
   color: rgb(106, 216, 91);
+}
+.box {
+  margin: 12px;
+  border: 10px solid black;
+  padding: 4px;
+  background-color: rgb(151, 34, 167);
 }
