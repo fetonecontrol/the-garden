@@ -11,6 +11,10 @@ _p, h, ul, ol, li, em, strong, a, img, div, and span HTML TAGS._
 
 _As well as showcasing the use of front end framework "bootstrap", and the use of custom CSS typography styles, cascading, the box model, and floats._
 
+_Source Code can be found @ https://github.com/fetonecontrol/the-garden_
+
+_contact frederick.ernest@gmail.com for all questions_
+
 ## Setup/Installation Requirements
 
 _Just open it in Chrome_
