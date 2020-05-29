@@ -33,3 +33,6 @@
   padding: 4px;
   background-color: rgb(151, 34, 167);
 }
+.radius {
+  border-radius: 15px;
+}
