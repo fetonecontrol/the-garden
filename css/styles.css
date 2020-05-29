@@ -1,4 +1,10 @@
-.sidebar {
+.sidebar h2 {
   font-size: small;
   text-shadow: aqua;
+}
+.navbarcolor a {
+  color: rgb(106, 216, 91);
+}
+.background {
+  background-color: rgb(207, 233, 207);
 }
