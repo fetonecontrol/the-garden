@@ -1,23 +1,18 @@
 .sidebar h2 {
   font-size: small;
   color: rgb(19, 32, 32);
+  margin: 6px;
+  border: 30px lightseagreen;
+  padding: 4px;
 }
 .floatright {
   width: 30%;
   float: right;
 }
-.floatleft {
-  float: left;
-}
 .highlight {
   font-style: italic;
 }
-.box
-  {
-    margin: 6px;
-    border: 3px lightseagreen;
-    padding: 4px;
-  }
+
 .h3 {
   font-family: helvetica;
   background: rgb(187, 233, 236);
