@@ -18,11 +18,15 @@ _contact frederick.ernest@gmail.com for all questions_
 
 ## Setup/Installation Requirements
 
-_Use the code 'git clone https://github.com/fetonecontrol/the-garden' in your Bash/ git Bash_ 
-_Navigate to the directory "the-garden" and open it in your prefered text editor, VSCODE is recommended_
-_open index.html in your preffered browser or use the preview .html extension in VSCODE, using the key command, command shift v_
+_Use the code 'git clone https://github.com/fetonecontrol/the-garden' in your Bash/ git Bash. _ 
+
+_Navigate to the directory "the-garden" and open it in your prefered text editor, VSCODE is recommended. _
+
+_open index.html in your preffered browser or use the preview .html extension in VSCODE, using the key command, command shift v. _
+
 _OR_
-_Download it directly to your desktop via https://github.com/fetonecontrol/the-garden, and double click the index.html file to open it in your browser_
+
+_Download it directly to your desktop via https://github.com/fetonecontrol/the-garden, and double click the index.html file to open it in your browser. _
 
 _you can view a live working version at https://fetonecontrol.github.io/the-garden/index.html_
 ### License
